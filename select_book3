@@ -1,0 +1,2 @@
+#select books based on author name
+select * from book_details where author_name like '%Yashwant%';
