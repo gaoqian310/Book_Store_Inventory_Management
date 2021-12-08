@@ -6,5 +6,5 @@ Users can also use filters to search for a particular book based on book name, a
 
 Admins can add books or delete books. 
 
-##### credit
+##### Credit
 project ideas [here](https://hackr.io/blog/best-sql-projects)
