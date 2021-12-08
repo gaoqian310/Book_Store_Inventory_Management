@@ -1,4 +1,4 @@
-# Book_Store_Inventory_Management
+# Book Store Inventory Management
 
 This is a project for a user to check all the books online, and also order a book online, in which case the inventory will get updated, and the book count will be reduced. 
 
