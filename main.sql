@@ -19,6 +19,7 @@ insert into book_details values ("Head first Java", "Kathy Sierra", "Learn Java 
 insert into book_details values ("Java: The complete reference", "Mc Graw Hill", "7th edition, learn Java programming", 783, 4, "Java", "Javabeans", 4);
 insert into book_details values ("Thinking in Java", "Bruce Eckel", "Java programming basics", 3000, 5, "Java", "JVM", 4.5);
 
+
 # Select only Java books
 
 select * from book_details where primary_keyword like '%java%';
